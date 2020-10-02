@@ -1,0 +1,80 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#mainContent {
+    background-image: url('./hands.png');
+    background-repeat: none;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .4rem;
+    font-size: 2vmin;
+}
+
+#msg {
+    width: 70%;
+    margin-left: 1rem;
+    color: whitesmoke;
+    
+}
+
+#schedule {
+
+}
+
+#register {
+    text-align: center;
+    padding-top: 1rem;
+    background-color: #1EACA8;
+    color: whitesmoke;
+}
+
+#lineHr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 70%;
+    border-color: whitesmoke;
+}
+
+#dummyLink {
+    /* text-decoration: none; */
+    color: whitesmoke;
+}
+
+#cuphead {
+    width: 5rem;
+}
+
+#icons {
+    margin: 5% auto;
+    background-image: url('./icons.png');
+    background-repeat: none;
+    background-size: 100% 100%;
+    width: 20%;
+    height: 4rem;
+}
+
+#inacom {
+    float: left;
+    margin-left: 15%;
+    background-image: url('./inacom.jpg');
+    background-repeat: none;
+    background-size: 100% 100%;
+    width: 10%;
+    height: 8rem;
+}
+
+#dell {
+    float: left;
+    margin-left: 50%;
+    background-image: url('./dell.jpg');
+    background-repeat: none;
+    background-size: 100% 100%;
+    width: 10%;
+    height: 3rem;
+}

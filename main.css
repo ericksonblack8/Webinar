@@ -4,22 +4,13 @@ html, body {
     height: 100%;
 }
 
-#mainContent {
-    background-image: url('./hands.png');
-    background-repeat: none;
-    background-size: 100% 100%;
-    width: 100%;
-    height: 100%;
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: .4rem;
-    font-size: 2vmin;
-}
-
 #msg {
-    width: 70%;
-    margin-left: 1rem;
+    position: absolute;
+    top: 11%;
+    width: 30%;
+    margin-left: 2rem;
     color: whitesmoke;
+    font-size: 2vmin;
     
 }
 
